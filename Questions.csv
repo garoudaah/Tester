@@ -9,5 +9,5 @@ question,correctAnswer,wrongAnswers,difficultyLevel
 "A potential hazard found in a lab or workshop must be reported in an incident report.",true,false,3
 "You should fill an unattended operations notice if you will leave an experiment running after lab hours.",true,false,3
 "Safety Datasheet contains information on how to deal with a certain chemical.",true,false,2
-"Standard Operating Procedure "SOP" is considered like the brief manual of the machine.",true,false,2
+"Standard Operating Procedure (SOP) is considered like the brief manual of the machine.",true,false,2
 "Hazard analysis document should be filled after conducting an experiment and knowing its hazards.",false,true,1
