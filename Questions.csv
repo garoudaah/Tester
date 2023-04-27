@@ -4,7 +4,7 @@ question,correctAnswer,wrongAnswers,difficultyLevel
 "You should wear gloves while using rotating tools.",false,true,1
 "Safety boots must be always worn in the workshop.",true,false,1
 "Hazard analysis is a document that states the steps of the experiment: its potential hazards and how to avoid them.",true,false,2
-"To get information on how to operate a certain machine: you should read its Safety Datasheet "SDS"",false,true,2
+"To get information on how to operate a certain machine: you should read its Safety Datasheet (SDS)",false,true,2
 "If a plece of equipment broke while working with it: you should fill an inspection form.",false,true,3
 "A potential hazard found in a lab or workshop must be reported in an incident report.",true,false,3
 "You should fill an unattended operations notice if you will leave an experiment running after lab hours.",true,false,3
